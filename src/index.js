@@ -1,7 +1,8 @@
 import loadHome from './home.js';
+import './styles.css';
 import loadMenu from './menu.js';
 import loadContact from './contact.js';
-import './styles.css';
+
 
 // Load home page by default
 loadHome();
